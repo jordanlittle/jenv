@@ -1,0 +1,95 @@
+# Sat Oct 1, 2016
+# 22:49
+# /Applications/
+AMPPS
+Adobe
+Adobe After Effects CC 2015.3
+Adobe Character Animator (Preview 4)
+Adobe Creative Cloud
+Adobe Illustrator CC 2015.3
+Adobe InDesign CC 2015
+Adobe Media Encoder CC 2015.3
+Adobe Photoshop CC 2015.5
+Adobe Premiere Pro CC 2015.3
+Airmail 2.app
+App Store.app
+Automator.app
+Balsamiq Mockups 3.app
+Calculator.app
+Calendar.app
+Chess.app
+Chronicle.app
+Commander One PRO.app
+Contacts.app
+DVD Player.app
+Dashboard.app
+Dictionary.app
+DrSafety.app
+Dropbox.app
+Euclid.app
+FaceTime.app
+Fantastical 2.app
+Firefox.app
+Font Book.app
+GIPHY CAPTURE.app
+GarageBand.app
+Gestimer.app
+GitHub Desktop.app
+Go for YouTube.app
+Google Chrome.app
+Hype2.app
+Image Capture.app
+Kaleidoscope.app
+Keynote.app
+Launchpad.app
+Magnet.app
+Mail.app
+Maps.app
+Messages.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+Mission Control.app
+Notes.app
+Notion.app
+Numbers.app
+Numi.app
+OpenVPN
+Opera.app
+Pages.app
+Photo Booth.app
+Photos.app
+Preview.app
+QuickTime Player.app
+Reeder.app
+Reminders.app
+Safari.app
+ScanSnap
+ScreenFlow.app
+Sequel Pro.app
+Sip.app
+Siri.app
+Sketch.app
+SketchUp.app
+Slack.app
+Spotify.app
+Stickies.app
+Sublime Text.app
+System Preferences.app
+TextEdit.app
+The Unarchiver.app
+Things.app
+Time Machine.app
+Transmit.app
+Unclutter.app
+Utilities
+VMware Fusion.app
+Xcode.app
+iBooks.app
+iMovie.app
+iTunes.app
+wordpress-4.5.3-1
+zoom.us.app
+
