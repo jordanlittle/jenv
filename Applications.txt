@@ -1,7 +1,6 @@
 # Sat Oct 1, 2016
 # 22:49
 # /Applications/
-AMPPS
 Adobe
 Adobe After Effects CC 2015.3
 Adobe Character Animator (Preview 4)
@@ -12,6 +11,7 @@ Adobe Media Encoder CC 2015.3
 Adobe Photoshop CC 2015.5
 Adobe Premiere Pro CC 2015.3
 Airmail 2.app
+AMPPS
 App Store.app
 Automator.app
 Balsamiq Mockups 3.app
@@ -21,24 +21,27 @@ Chess.app
 Chronicle.app
 Commander One PRO.app
 Contacts.app
-DVD Player.app
 Dashboard.app
 Dictionary.app
-DrSafety.app
 Dropbox.app
+DrSafety.app
+DVD Player.app
 Euclid.app
 FaceTime.app
 Fantastical 2.app
 Firefox.app
 Font Book.app
-GIPHY CAPTURE.app
 GarageBand.app
 Gestimer.app
+GIPHY CAPTURE.app
 GitHub Desktop.app
 Go for YouTube.app
 Google Chrome.app
 Hype2.app
+iBooks.app
 Image Capture.app
+iMovie.app
+iTunes.app
 Kaleidoscope.app
 Keynote.app
 Launchpad.app
@@ -84,12 +87,8 @@ Things.app
 Time Machine.app
 Transmit.app
 Unclutter.app
-Utilities
+Visual Studio Code.app
 VMware Fusion.app
 Xcode.app
-iBooks.app
-iMovie.app
-iTunes.app
-wordpress-4.5.3-1
 zoom.us.app
 
