@@ -1,94 +1,97 @@
-# Sat Oct 1, 2016
-# 22:49
-# /Applications/
-Adobe
-Adobe After Effects CC 2015.3
-Adobe Character Animator (Preview 4)
-Adobe Creative Cloud
-Adobe Illustrator CC 2015.3
-Adobe InDesign CC 2015
-Adobe Media Encoder CC 2015.3
-Adobe Photoshop CC 2015.5
-Adobe Premiere Pro CC 2015.3
-Airmail 2.app
 AMPPS
+Adobe Acrobat DC
+Adobe After Effects CC 2018
+Adobe Audition CC 2018
+Adobe Character Animator CC (Beta)
+Adobe Creative Cloud
+Adobe Illustrator CC 2018
+Adobe InDesign CC 2018
+Adobe Media Encoder CC 2018
+Adobe Photoshop CC 2018
+Adobe Premiere Pro CC 2018
+Airmail 3.app
 App Store.app
 Automator.app
 Balsamiq Mockups 3.app
+Bear.app
+Blisk.app
+Brave.app
 Calculator.app
 Calendar.app
 Chess.app
-Chronicle.app
 Commander One PRO.app
 Contacts.app
+DVD Player.app
 Dashboard.app
 Dictionary.app
 Dropbox.app
-DrSafety.app
-DVD Player.app
-Euclid.app
 FaceTime.app
 Fantastical 2.app
+Final Cut Pro.app
 Firefox.app
+FirefoxDeveloperEdition.app
 Font Book.app
+GIF Brewery 3.app
 GarageBand.app
 Gestimer.app
-GIPHY CAPTURE.app
-GitHub Desktop.app
-Go for YouTube.app
 Google Chrome.app
-Hype2.app
-iBooks.app
+HandBrake.app
+Hex Fiend.app
+Hyper.app
 Image Capture.app
-iMovie.app
-iTunes.app
-Kaleidoscope.app
+Install macOS High Sierra.app
 Keynote.app
 Launchpad.app
 Magnet.app
 Mail.app
 Maps.app
 Messages.app
-Microsoft Excel.app
-Microsoft OneNote.app
-Microsoft Outlook.app
-Microsoft PowerPoint.app
-Microsoft Word.app
+Microsoft Lync.app
+Microsoft Office 2011
 Mission Control.app
 Notes.app
-Notion.app
+Now.app
 Numbers.app
-Numi.app
-OpenVPN
-Opera.app
+Opera Neon.app
 Pages.app
 Photo Booth.app
 Photos.app
+Postman.app
 Preview.app
 QuickTime Player.app
-Reeder.app
 Reminders.app
 Safari.app
-ScanSnap
 ScreenFlow.app
 Sequel Pro.app
-Sip.app
+SimpleMind Lite.app
 Siri.app
 Sketch.app
-SketchUp.app
+Skype.app
 Slack.app
 Spotify.app
+Steam.app
 Stickies.app
 Sublime Text.app
 System Preferences.app
+Tableau Public
 TextEdit.app
 The Unarchiver.app
-Things.app
+Things3.app
 Time Machine.app
+Tower.app
+Transmission.app
 Transmit.app
+Twitter.app
 Unclutter.app
-Visual Studio Code.app
+Utilities
+VLC.app
 VMware Fusion.app
+Visual Studio Code.app
+Visual Studio.app
+Xamarin Profiler.app
+Xamarin Workbooks.app
 Xcode.app
+iBooks.app
+iMovie.app
+iTunes.app
 zoom.us.app
-
