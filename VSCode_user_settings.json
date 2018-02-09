@@ -16,6 +16,7 @@
     "editor.renderControlCharacters": false,
     "editor.minimap.showSlider": "always",
     "editor.wordWrap": "on",
+    "window.restoreWindows": "none",
     "workbench.colorTheme": "Hyper Term Black",
     "workbench.activityBar.visible": false,
     "workbench.startupEditor": "",
