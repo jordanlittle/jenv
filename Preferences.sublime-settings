@@ -1,18 +1,23 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"caret_extra_width": 2,
-	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
 	"create_window_at_startup": false,
 	"draw_centered": true,
 	"draw_minimap_border": true,
 	"file_exclude_patterns":
 	[
+		"scoreboard_ui.min.css",
+		"scoreboard_ui/_app/styles/app.min.css",
+		"scoreboard_mktg_styles.css",
 		".DS_Store"
 	],
-	"font_face": "Input Mono",
-	"font_size": 11,
+	"folder_exclude_patterns":
+	[
+		"node_modules"
+	],
+	"font_face": "Operator Mono Book",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -22,18 +27,18 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
-	"material_theme_accent_graphite": true,
-	"material_theme_compact_panel": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"material_theme_accent_cyan": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
-	"material_theme_tree_headings": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_titlebar": true,
 	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": true,
 	"show_encoding": true,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "One Dark.sublime-theme",
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": true
 }
