@@ -1,77 +1,105 @@
-AMPPS
 Adobe Acrobat DC
-Adobe After Effects CC 2018
-Adobe Audition CC 2018
-Adobe Character Animator CC (Beta)
+Adobe After Effects CC 2019
+Adobe Audition CC 2019
 Adobe Creative Cloud
-Adobe Illustrator CC 2018
-Adobe InDesign CC 2018
-Adobe Media Encoder CC 2018
-Adobe Photoshop CC 2018
-Adobe Premiere Pro CC 2018
-Airmail 3.app
+Adobe Illustrator CC 2019
+Adobe InDesign CC 2019
+Adobe Media Encoder CC 2019
+Adobe Photoshop CC 2019
+Adobe Premiere Pro CC 2019
+Ampps
 App Store.app
 Automator.app
 Balsamiq Mockups 3.app
+Basecamp 3.app
 Bear.app
-Blisk.app
-Brave.app
+Blackmagic Disk Speed Test.app
+Bluetooth Explorer.app
+Books.app
+Brave Browser.app
+CARROT Weather.app
 Calculator.app
 Calendar.app
 Chess.app
+CodeRunner.app
 Commander One PRO.app
 Contacts.app
-DVD Player.app
+Daily Update Upload.app
 Dashboard.app
+Dashlane.app
 Dictionary.app
 Dropbox.app
 FaceTime.app
-Fantastical 2.app
 Final Cut Pro.app
 Firefox.app
-FirefoxDeveloperEdition.app
+Flock.app
 Font Book.app
 GIF Brewery 3.app
 GarageBand.app
 Gestimer.app
 Google Chrome.app
 HandBrake.app
+HazeOver.app
 Hex Fiend.app
+Home.app
+Hype2.app
 Hyper.app
 Image Capture.app
-Install macOS High Sierra.app
+ImageOptim.app
+Insomnia.app
 Keynote.app
 Launchpad.app
+Local by Flywheel.app
+MacDown.app
 Magnet.app
 Mail.app
 Maps.app
 Messages.app
-Microsoft Lync.app
+Microsoft Edge Canary.app
 Microsoft Office 2011
+Microsoft Teams.app
+MindNode.app
+Minecraft.app
 Mission Control.app
+News Explorer.app
+News.app
 Notes.app
-Now.app
+Nova.app
 Numbers.app
+Numi.app
+OBS.app
+OmniDiskSweeper.app
+OpenRCT2.app
 Opera Neon.app
+Opera.app
 Pages.app
 Photo Booth.app
 Photos.app
 Postman.app
+Prepros.app
 Preview.app
 QuickTime Player.app
 Reminders.app
 Safari.app
+Screaming Frog SEO Spider.app
 ScreenFlow.app
 Sequel Pro.app
+Setapp
+Setapp.app
+ShareMouse.app
+Silicio.app
 SimpleMind Lite.app
 Siri.app
 Sketch.app
 Skype.app
 Slack.app
+Spark.app
 Spotify.app
 Steam.app
 Stickies.app
+Stocks.app
 Sublime Text.app
+SyphonInject.app
 System Preferences.app
 Tableau Public
 TextEdit.app
@@ -81,17 +109,17 @@ Time Machine.app
 Tower.app
 Transmission.app
 Transmit.app
-Twitter.app
 Unclutter.app
+Unity
+Unity Hub.app
 Utilities
 VLC.app
 VMware Fusion.app
+VirtualBox.app
 Visual Studio Code.app
 Visual Studio.app
-Xamarin Profiler.app
-Xamarin Workbooks.app
+VoiceMemos.app
 Xcode.app
-iBooks.app
 iMovie.app
 iTunes.app
 zoom.us.app

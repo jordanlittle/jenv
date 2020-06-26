@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"color_scheme": "Packages/Facebook Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"create_window_at_startup": false,
 	"draw_centered": true,
 	"draw_minimap_border": true,
@@ -14,21 +14,17 @@
 	],
 	"folder_exclude_patterns":
 	[
-		"node_modules"
+		".css"
 	],
 	"font_face": "Operator Mono Book",
 	"font_size": 12,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 0,
-	"line_padding_top": 0,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"material_theme_accent_cyan": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_small_statusbar": true,
